@@ -1,6 +1,6 @@
 ## sleazycase
 
-[![CircleCI](https://circleci.com/gh/Nemsae/sleazycase.svg?style=svg)](https://circleci.com/gh/Nemsae/sleazycase)
+[![CircleCI](https://circleci.com/gh/Nemsae/sleazycase.svg?style=shield)](https://circleci.com/gh/Nemsae/sleazycase)
 
 Alternate string casing
 
@@ -14,5 +14,5 @@ $ npm install sleazycase
 ```js
 const sleazycase = require('sleazycase');
 
-sleazycase('SOME STRING') // --> 'sOmE StRiNg' 
+sleazycase('SOME STRING') // --> 'sOmE StRiNg'
 ```
