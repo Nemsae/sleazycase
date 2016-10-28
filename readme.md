@@ -14,5 +14,6 @@ $ npm install sleazycase
 ```js
 const sleazycase = require('sleazycase');
 
+sleazycase('lets get parsed') // --> 'lEtS GeT PaRsEd'
 sleazycase('SOME STRING') // --> 'sOmE StRiNg'
 ```
